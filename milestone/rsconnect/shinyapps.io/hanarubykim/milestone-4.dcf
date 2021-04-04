@@ -5,8 +5,8 @@ account: hanarubykim
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3781400
-bundleId: 4337319
+bundleId: 4426240
 url: https://hanarubykim.shinyapps.io/milestone-4/
-when: 1615580228.36499
+when: 1617424796.00527
 asMultiple: FALSE
 asStatic: FALSE
